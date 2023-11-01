@@ -34,9 +34,7 @@ Para monitorar a temperatura,o display mostra "Temperatura OK" enquanto estiver 
 
 Para rodar, basta instalar você pode acessar a simulação que fizemos [neste link](https://wokwi.com/projects/378787494974960641) ou então montar o circuito da imagem e rodar o código a seguir:
 
-<div align="center">
-<img width="800" alt="image" src="https">  
-</div>
+![MicrosoftTeams-image](https://github.com/felpschneider/vinheria-agnello/assets/89404927/8b1ffbeb-e785-4b10-92ac-4e6b7521da7e)
 
 ```
 #include <DHT.h>
@@ -153,7 +151,7 @@ void loop() {
 # Links
 Abaixo você pode acessar os links da apresentação do circuito
 - [Video explicativo](https://youtu.be/T2frcA8sxnw?si=vxwQjn2FKPDpRfYJ)
-- [Link da simulação no Wokwi](https://www.tinkercad.com/things/acs7l5mKNHh)
+- [Link da simulação no Wokwi](https://wokwi.com/projects/378787494974960641)
 
 # Colaboradores
 - Felipe Schneider
